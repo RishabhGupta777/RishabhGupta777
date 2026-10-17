@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Rishabh Gupta</h1>
+<h1 align="center">Hi 👋, I'm Rishabh Gupta</h1>
 <h3 align="center">Flutter Developer | Full Stack Developer | CSE Undergraduate</h3>
 
 <p align="left">
@@ -34,6 +34,10 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 
+### Payments & Integrations
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+![Shiprocket](https://img.shields.io/badge/Shiprocket-5A2D82?style=for-the-badge)
+
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -46,14 +50,49 @@
 
 ## 🚀 Featured Projects
 
-### 🎓 DCRUST.online
-An alumni networking platform connecting students and alumni of DCRUST, with user profiles, LinkedIn-based verification, and event management.
+### 🎨 PaintMe — Painting Service Management Platform
+**Flutter, Dart, Node.js, MySQL** | Mar 2026 – Jun 2026
 
-### 🎨 PaintMe
-A painting service marketplace connecting customers with professional painters, featuring booking management, price negotiation, Razorpay payments, and reviews.
+- Developed a full-stack painting service management platform connecting customers, painters, and administrators through dedicated role-based modules and separate profile management systems.
+- Implemented secure JWT and OTP-based authentication along with a real-time booking workflow where customers can request painting services, painters receive booking requests, and both parties finalize painting location and service details after confirmation.
+- Integrated Razorpay payment gateway for secure transaction processing and designed customer review functionality enabling users to upload completed painting work, provide ratings, and share feedback for painters.
+- Engineered scalable backend services and dedicated dashboards for painters and administrators to efficiently manage bookings, painting projects, customer interactions, transactions, and service records using Node.js and MySQL.
 
-### 📱 DCRUST App
-A Flutter application providing university-related features, including attendance, results, notices, previous-year question papers, and student resources.
+---
+
+### 🎓 DCRUST — Unified University Platform
+**React.js, Flutter, Node.js, Express.js, MongoDB** | Sep 2025 – Jan 2026 | [🔗 Live Application](https://dcrust.online) 
+
+- Developed a unified university platform with a React.js web application and Flutter mobile application powered by a shared Node.js/Express.js backend and centralized database.
+- Integrated academic features including attendance tracking, previous-year question papers, syllabus, date sheets, and student portal access to simplify access to university resources.
+- Implemented alumni networking with profile verification and real-time chatting to connect students and alumni.
+- Implemented campus utility modules for events, jobs and internships, complaints, resume builder, department faculty directories, and boys and girls mess information.
+
+---
+
+### 🌿 VedicRasAyurveda — Ayurvedic E-commerce Website
+**React.js, Node.js, Express.js, MongoDB, Razorpay, Shiprocket** | Jan 2026 – Mar 2026 | [🔗 Live Application](https://vedicrasayurveda.vercel.app/)
+
+- Built a full-stack Ayurvedic e-commerce platform with categorized product catalogue, efficient product search, product detail pages, wishlist, cart and checkout for a seamless shopping experience.
+- Integrated Razorpay payment gateway to enable secure online payments and reliable order confirmation.
+- Integrated Shiprocket for shipping and order fulfilment, streamlining delivery from order placement to doorstep.
+- Provided 24/7 customer support to resolve product queries, order issues and delivery concerns.
+
+---
+
+### 🛒 E-commerce Mobile Application
+**Dart, Flutter, Firebase** | May 2025 – Aug 2025 | [GitHub](https://github.com/RishabhGupta777/TMart)
+
+- Developed a Flutter e-commerce mobile application with wishlist, shopping cart, and brand-wise product categories.
+- Implemented Firebase Firestore for real-time data sync and dynamic product listings, with Provider for state management.
+
+---
+
+### 🤖 AI Assistant and Chatbot Integration
+**Flutter, Dart, Firebase, Gemini API** | Jan 2025 | [GitHub](https://github.com/RishabhGupta777/nano_health_AI_assistant_AND_chatbot)
+
+- Built an AI-powered assistant and chatbot using Gemini API for natural language understanding, intelligent responses, and a real-time chat interface for user queries, guidance, and automated support.
+- Integrated Firebase backend services to manage user sessions, chat history storage, and secure data handling.
 
 ---
 

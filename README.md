@@ -5,7 +5,7 @@
   <img src="https://hits.sh/github.com/RishabhGupta777.svg?style=flat&label=Profile%20views&color=0e75b6" alt="Profile views" />
 </p>
 
-- 🔭 I'm currently building **DCRUST.online**, an alumni networking platform.
+- 🔭 I'm currently building **DCRUST.online**, an alumni networking and Unified University Platform.
 - 🌱 I'm improving my skills in **Data Structures & Algorithms, Flutter, and Backend Development**.
 - 💬 Ask me about **Flutter, Dart, MERN Stack, REST APIs, and Firebase**.
 - 📱 Experienced in building cross-platform mobile applications using Flutter.

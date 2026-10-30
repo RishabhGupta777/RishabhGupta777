@@ -80,7 +80,7 @@
 
 ---
 
-### 🛒 E-commerce Mobile Application
+### 🛒 TMart — E-commerce Mobile Application
 **Dart, Flutter, Firebase** | May 2025 – Aug 2025 | [GitHub](https://github.com/RishabhGupta777/TMart)
 
 - Developed a Flutter e-commerce mobile application with wishlist, shopping cart, and brand-wise product categories.
@@ -88,7 +88,7 @@
 
 ---
 
-### 🤖 AI Assistant and Chatbot Integration
+### 🤖 Nano Health — AI Assistant and Chatbot 
 **Flutter, Dart, Firebase, Gemini API** | Jan 2025 | [GitHub](https://github.com/RishabhGupta777/nano_health_AI_assistant_AND_chatbot)
 
 - Built an AI-powered assistant and chatbot using Gemini API for natural language understanding, intelligent responses, and a real-time chat interface for user queries, guidance, and automated support.

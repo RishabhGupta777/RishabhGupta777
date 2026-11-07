@@ -99,15 +99,15 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RishabhGupta777&show_icons=true&theme=tokyonight&hide_border=true" alt="Rishabh's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RishabhGupta777&show_icons=true&theme=tokyonight&hide_border=true" alt="Rishabh's GitHub Stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhGupta777&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RishabhGupta777&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishabhGupta777&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RishabhGupta777&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
